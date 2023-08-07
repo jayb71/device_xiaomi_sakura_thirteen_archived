@@ -5,7 +5,7 @@
 #
 
 # Inherit from sakura-common
-$(call inherit-product, device/xiaomi/sakura-common/sakura.mk)
+$(call inherit-product, device/xiaomi/sakura/sakura.mk)
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
